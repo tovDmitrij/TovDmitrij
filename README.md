@@ -90,9 +90,9 @@
 </h2>
 <div align="center">
   
-  | <code><img width=50px title="Bootstrap" src="https://user-images.githubusercontent.com/86602542/169539065-c5f1b19c-6ac4-4585-b923-b19fc79690d3.png"/></code> | <code><img width=90px title="Beautiful Soup" src="https://user-images.githubusercontent.com/86602542/169539420-5cbd4ce9-db41-465a-bc5f-7c2e8a016103.png"/></code> | <code><img width=50px title="Selenium" src="https://user-images.githubusercontent.com/86602542/169539611-e1e37980-0ec4-43bb-8228-25300801d39a.png"/></code> | <code><img width=50px title="XAMPP" src="https://user-images.githubusercontent.com/86602542/169539739-bc76bbde-d570-44b5-8b1a-ef8c2910ef93.png"/></code> |
-  | :-: | :-: | :-: | :-: |
-  | Bootstrap | Beautiful Soup | Selenium | XAMPP
+  | <code><img width=50px title="Bootstrap" src="https://user-images.githubusercontent.com/86602542/169539065-c5f1b19c-6ac4-4585-b923-b19fc79690d3.png"/></code> | <code><img width=90px title="EntityFrameWork" src="https://user-images.githubusercontent.com/86602542/203132485-6102f837-e29b-46dc-81ab-1f797a906a60.png"/></code> |
+  | :-: | :-: |
+  | Bootstrap | EntityFramework |
   
 </div>
 
