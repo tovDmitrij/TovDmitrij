@@ -104,11 +104,7 @@
   <img height="35px" src="https://user-images.githubusercontent.com/86602542/169537286-37882072-0bf6-4153-819d-0da3b5cce4a7.gif">GitHub stats
 </h2>
 <div align="center">  
-  <img width=500px height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovdmitrij&theme=graywhite&hide_border=true0&layout=compact&langs_count=15&count-private=true&hide_title=true"/>
-</div>
-<div align="center">>
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=tovdmitrij&count_private=true&show_icons=true&theme=light&hide_border=true&hide_title=true"/>
-</div>
-<div align="center">>
-  <img width=500px height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=light&hide_border=true"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=6&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tovDmitrij&show_icons=true&theme=light&text_color=434d58&hide_title=true) ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=light)
+  
 </div>
