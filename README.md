@@ -105,8 +105,12 @@
 </h2>
 <div align="center">
   
-  | <img src="https://www.codewars.com/users/TovDmitrij/badges/large"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=9&hide_title=true&count_private=true"/> |
-  | :-: | :-: |
-  | <img src="https://github-readme-stats.vercel.app/api?username=tovDmitrij&show_icons=true&theme=light&text_color=434d58&hide_title=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=light"/> |
+![CodeWars](https://www.codewars.com/users/TovDmitrij/badges/large)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=9&hide_title=true&count_private=true)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tovDmitrij&show_icons=true&theme=light&text_color=434d58&hide_title=true) 
+
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=light) 
   
 </div>
