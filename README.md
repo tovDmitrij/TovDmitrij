@@ -15,7 +15,7 @@
 </h2>
 <div align="center">  
 
-  | <code><img width=50px title="C#" src="https://user-images.githubusercontent.com/86602542/169523940-1eaa39d9-0dc6-4aa0-9d0b-ac440473a052.png"/></code> | <code><img width=50px title="C++" src="https://user-images.githubusercontent.com/86602542/197863225-493d6828-ecb8-4ddd-8555-0a7b4addc8c4.png"/></code> | <code><img width=50px title="Python" src="https://user-images.githubusercontent.com/86602542/169524407-920644ab-78ee-499d-af82-0a4f38af26b0.png"/></code> |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169523940-1eaa39d9-0dc6-4aa0-9d0b-ac440473a052.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/197863225-493d6828-ecb8-4ddd-8555-0a7b4addc8c4.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/169524407-920644ab-78ee-499d-af82-0a4f38af26b0.png"/> |
   | :-: | :-: | :-: |
   | C# | C++| Python |
   
@@ -30,7 +30,7 @@
 </h2>
 <div align="center">
 
-  | <code><img width=50px title="WPF" src="https://user-images.githubusercontent.com/86602542/197358883-d3e90aea-6299-4bf6-a05f-86c7a8d68f62.png"/></code> | <code><img width=50px title="Django" src="https://user-images.githubusercontent.com/86602542/197358792-502ba9c4-ed69-4522-a0c1-f2966ecd5b16.png"/></code> |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358883-d3e90aea-6299-4bf6-a05f-86c7a8d68f62.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358792-502ba9c4-ed69-4522-a0c1-f2966ecd5b16.png"/> |
   | :-: | :-: |
   | Asp.Net Core | Django |
   
@@ -45,7 +45,7 @@
 </h2>
 <div align="center">
 
-  | <code><img width=50px title="WPF" src="https://user-images.githubusercontent.com/86602542/169524774-847a9d66-e57b-48b1-bc04-04263798d7ad.png"/></code> | <code><img width=50px title="WPF" src="https://user-images.githubusercontent.com/86602542/197358986-ab35e4da-1f90-475a-9c76-db88c225a791.png"/></code> |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169524774-847a9d66-e57b-48b1-bc04-04263798d7ad.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358986-ab35e4da-1f90-475a-9c76-db88c225a791.png"/> |
   | :-: | :-: |
   | WPF | PyQt |
   
@@ -60,7 +60,7 @@
 </h2>
 <div align="center">
   
-  | <code><img width=75px title="MSSQL" src="https://user-images.githubusercontent.com/86602542/169476599-0fbba1f1-a150-47cc-bf24-aa92e4171f7b.png"/></code> | <code><img width=75px title="PostgreSql" src="https://user-images.githubusercontent.com/86602542/200839167-c81c3343-1082-42ac-9b7d-ddc2c7184899.png"/></code> | <code><img width=75px title="SQLite3" src="https://user-images.githubusercontent.com/86602542/197358692-d07a0237-7aea-4aa1-9942-20e46c4f8e6e.png"/></code> |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169476599-0fbba1f1-a150-47cc-bf24-aa92e4171f7b.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/200839167-c81c3343-1082-42ac-9b7d-ddc2c7184899.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358692-d07a0237-7aea-4aa1-9942-20e46c4f8e6e.png"/> |
   | :-: | :-: | :-: |
   | MSSQL | PostgreSql | SQLite3 |
 
@@ -75,7 +75,7 @@
 </h2>
 <div align="center">
   
-  | <code><img width=50px src="https://user-images.githubusercontent.com/86602542/170212088-9b55c4ba-77da-4ca3-97dd-8067e1369d59.png"/></code>  |   <code><img width=50px src="https://user-images.githubusercontent.com/86602542/170211813-77cfbd5f-9829-428a-821a-3db0a2f3d57a.png"/></code> |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/170212088-9b55c4ba-77da-4ca3-97dd-8067e1369d59.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/170211813-77cfbd5f-9829-428a-821a-3db0a2f3d57a.png"/> |
   | :-: | :-: |
   | Win10 | Ubuntu |
   
@@ -90,7 +90,7 @@
 </h2>
 <div align="center">
   
-  | <code><img width=50px title="Bootstrap" src="https://user-images.githubusercontent.com/86602542/169539065-c5f1b19c-6ac4-4585-b923-b19fc79690d3.png"/></code> | <code><img width=90px title="EntityFrameWork" src="https://user-images.githubusercontent.com/86602542/203132485-6102f837-e29b-46dc-81ab-1f797a906a60.png"/></code> |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169539065-c5f1b19c-6ac4-4585-b923-b19fc79690d3.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/203132485-6102f837-e29b-46dc-81ab-1f797a906a60.png"/> |
   | :-: | :-: |
   | Bootstrap | EntityFramework |
   
@@ -101,12 +101,12 @@
 
 
 <h2 align="center">
-  <img height="35px" src="https://user-images.githubusercontent.com/86602542/169537286-37882072-0bf6-4153-819d-0da3b5cce4a7.gif">GitHub stats
+  <img height="35px" src="https://user-images.githubusercontent.com/86602542/169537286-37882072-0bf6-4153-819d-0da3b5cce4a7.gif">Miscellaneous stats
 </h2>
-<div align="center">  
-        
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=9&hide_title=true&count_private=true) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tovDmitrij&show_icons=true&theme=light&text_color=434d58&hide_title=true) ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=light)
-| :-: | :-: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |
-      
+<div align="center">
+  
+  | <img src="https://www.codewars.com/users/TovDmitrij/badges/large"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=9&hide_title=true&count_private=true"/> |
+  | :-: | :-: |
+  | <img src="https://github-readme-stats.vercel.app/api?username=tovDmitrij&show_icons=true&theme=light&text_color=434d58&hide_title=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=light"/> |
+  
 </div>
