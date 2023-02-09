@@ -30,9 +30,9 @@
 </h2>
 <div align="center">
 
-  | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358883-d3e90aea-6299-4bf6-a05f-86c7a8d68f62.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358792-502ba9c4-ed69-4522-a0c1-f2966ecd5b16.png"/> |
-  | :-: | :-: |
-  | Asp.Net Core | Django |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358883-d3e90aea-6299-4bf6-a05f-86c7a8d68f62.png"/> |
+  | :-: |
+  | Asp.Net Core |
   
 </div>
 
@@ -45,9 +45,9 @@
 </h2>
 <div align="center">
 
-  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169524774-847a9d66-e57b-48b1-bc04-04263798d7ad.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358986-ab35e4da-1f90-475a-9c76-db88c225a791.png"/> |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169524774-847a9d66-e57b-48b1-bc04-04263798d7ad.png"/> | <img width=75px src="https://user-images.githubusercontent.com/86602542/217938679-3756572a-fc8c-4bfc-96a5-f3d35884adf9.png"/> |
   | :-: | :-: |
-  | WPF | PyQt |
+  | WPF | WinForms |
   
 </div>
 
@@ -60,9 +60,9 @@
 </h2>
 <div align="center">
   
-  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169476599-0fbba1f1-a150-47cc-bf24-aa92e4171f7b.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/200839167-c81c3343-1082-42ac-9b7d-ddc2c7184899.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358692-d07a0237-7aea-4aa1-9942-20e46c4f8e6e.png"/> |
-  | :-: | :-: | :-: |
-  | MSSQL | PostgreSql | SQLite3 |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169476599-0fbba1f1-a150-47cc-bf24-aa92e4171f7b.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/200839167-c81c3343-1082-42ac-9b7d-ddc2c7184899.png"/> |
+  | :-: | :-: |
+  | MSSQL | PostgreSql |
 
 </div>
 
