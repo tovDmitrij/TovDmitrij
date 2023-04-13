@@ -90,9 +90,9 @@
 </h2>
 <div align="center">
   
-  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169539065-c5f1b19c-6ac4-4585-b923-b19fc79690d3.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/203132485-6102f837-e29b-46dc-81ab-1f797a906a60.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/225349656-d8a3d861-963a-4ba9-9a1d-2ac8ef181e72.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/225350609-9a4a7fab-a44b-4e65-a333-0fde261d2333.png"/> |
-  | :-: | :-: | :-: | :-: |
-  | Bootstrap | EntityFramework | RabbitMQ | Docker |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/203132485-6102f837-e29b-46dc-81ab-1f797a906a60.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/225349656-d8a3d861-963a-4ba9-9a1d-2ac8ef181e72.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/225350609-9a4a7fab-a44b-4e65-a333-0fde261d2333.png"/> |
+  | :-: | :-: | :-: |
+  | EntityFramework | RabbitMQ | Docker |
   
 </div>
 
