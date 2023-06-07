@@ -107,7 +107,7 @@
   
 ![Codewars](https://www.codewars.com/users/tovDmitrij/badges/large)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=6&hide_title=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=9&hide_title=true&count_private=true)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tovDmitrij&show_icons=true&theme=light&text_color=434d58&hide_title=true) 
 
