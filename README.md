@@ -30,9 +30,9 @@
 </h2>
 <div align="center">
 
-  | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358883-d3e90aea-6299-4bf6-a05f-86c7a8d68f62.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/225348609-f5a7c93d-b0e4-4392-962a-f7f44f7e432f.png"/>
-  | :-: | :-: |
-  | Asp.Net Core | React
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/197358883-d3e90aea-6299-4bf6-a05f-86c7a8d68f62.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/225348609-f5a7c93d-b0e4-4392-962a-f7f44f7e432f.png"/> | <img width=65px src="https://github.com/tovDmitrij/tovDmitrij/assets/86602542/7be9c38a-3a4e-47f0-a4aa-5a9492d1116f" />
+  | :-: | :-: | :-: |
+  | Asp.Net Core | React | Django |
   
 </div>
 
