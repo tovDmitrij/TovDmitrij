@@ -107,7 +107,7 @@
   
 ![Codewars](https://www.codewars.com/users/tovDmitrij/badges/large)
   
-![Langs](https://github-readme-stats-1q6t.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=10&layout=compact&hide_title=true&count_private=true&exclude_repo=github-readme-stats,tovdmitrij.github.io&disable_animations=true)  
+![Langs](https://github-readme-stats-1q6t.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=10&layout=compact&hide_title=true&count_private=true&exclude_repo=github-readme-stats,tovdmitrij.github.io,Nordavind-Investements,Petrol-Station,factory-ai-cameras,Competence-Matrix&disable_animations=true)  
   
 ![Stats](https://github-readme-stats-1q6t.vercel.app/api?username=tovDmitrij&show_icons=true&theme=light&text_color=434d58&hide_title=true&include_all_commits=true&rank_icon=github&exclude_repo=github-readme-stats,tovdmitrij.github.io&count_private=true&disable_animations=true) 
 
