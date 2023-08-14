@@ -73,6 +73,8 @@
 <div align="center">
   
 ![Codewars](https://www.codewars.com/users/tovDmitrij/badges/large)
+
+![](https://komarev.com/ghpvc/?username=tovDmitrij&style=for-the-badge)
   
 ![Langs](https://github-readme-stats-tovdmitrij.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=10&layout=compact&hide_title=true&count_private=true&disable_animations=true&exclude_repo=github-readme-stats,tovdmitrij.github.io,Petrol-Station,Nordavind-Investements,factory-ai-cameras)  
   
