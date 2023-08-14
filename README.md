@@ -12,9 +12,9 @@
 </h2>
 <div align="center">  
 
-  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169523940-1eaa39d9-0dc6-4aa0-9d0b-ac440473a052.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/197863225-493d6828-ecb8-4ddd-8555-0a7b4addc8c4.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/169524407-920644ab-78ee-499d-af82-0a4f38af26b0.png"/> | <img width=65px src="https://github.com/tovDmitrij/tovDmitrij/assets/86602542/04ea9835-fadd-42cc-a2dd-3edec8c5298b"/> |
-  | :-: | :-: | :-: | :-: |
-  | C# | C++| Python | JavaScript |
+  | <img width=65px src="https://user-images.githubusercontent.com/86602542/169523940-1eaa39d9-0dc6-4aa0-9d0b-ac440473a052.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/197863225-493d6828-ecb8-4ddd-8555-0a7b4addc8c4.png"/> | <img width=65px src="https://user-images.githubusercontent.com/86602542/169524407-920644ab-78ee-499d-af82-0a4f38af26b0.png"/> | <img width=65px src="https://github.com/tovDmitrij/tovDmitrij/assets/86602542/04ea9835-fadd-42cc-a2dd-3edec8c5298b"/> | <img width=65px src="https://github.com/tovDmitrij/tovDmitrij/assets/86602542/0afd50c1-a9b9-476b-97d4-9d3c007b58e6" /> |
+  | :-: | :-: | :-: | :-: | :-: |
+  | C# | C++| Python | JavaScript | SCSS |
   
 </div>
 
@@ -71,12 +71,10 @@
   <img height="35px" src="https://user-images.githubusercontent.com/86602542/169537286-37882072-0bf6-4153-819d-0da3b5cce4a7.gif">Miscellaneous stats
 </h2>
 <div align="center">
-  
-![Codewars](https://www.codewars.com/users/tovDmitrij/badges/large)
 
-![](https://komarev.com/ghpvc/?username=tovDmitrij&style=for-the-badge)
-  
-![Langs](https://github-readme-stats-tovdmitrij.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=10&layout=compact&hide_title=true&count_private=true&disable_animations=true&exclude_repo=github-readme-stats,tovdmitrij.github.io,Petrol-Station,Nordavind-Investements,factory-ai-cameras)  
+![Langs](https://github-readme-stats-tovdmitrij.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=10&layout=compact&hide_title=true&count_private=true&disable_animations=true&exclude_repo=github-readme-stats,Petrol-Station,Nordavind-Investements,factory-ai-cameras)  
+
+![Codewars](https://www.codewars.com/users/tovDmitrij/badges/large)
   
 ![Stats](https://github-readme-stats-tovdmitrij.vercel.app/api?username=tovDmitrij&show_icons=true&theme=light&text_color=434d58&hide_title=true&include_all_commits=true&rank_icon=github&disable_animations=true&include_all_commits=true) 
 
