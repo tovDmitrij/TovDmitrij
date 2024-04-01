@@ -72,11 +72,7 @@
 </h2>
 <div align="center">
 
-![Langs](https://github-readme-stats-tovdmitrij.vercel.app/api/top-langs/?username=tovDmitrij&langs_count=10&layout=compact&hide_title=true&count_private=true&disable_animations=true&exclude_repo=github-readme-stats,Competence-matrix,Petrol-Station,Nordavind-Investements,hackathon_finodays_2023,hackathon_DigitalBreakthrough_2023,hackathon_Nestro_2023,keyboards,parking)  
-
 ![Codewars](https://www.codewars.com/users/tovDmitrij/badges/large)
-  
-![Stats](https://github-readme-stats-tovdmitrij.vercel.app/api?username=tovDmitrij&show_icons=true&theme=light&text_color=434d58&hide_title=true&include_all_commits=true&rank_icon=github&disable_animations=true&include_all_commits=true) 
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=light&disable_animations=true) 
   
