@@ -74,10 +74,6 @@
 
 ![Codewars](https://www.codewars.com/users/tovDmitrij/badges/large)
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=tovDmitrij&style=for-the-badge" alt=""/>
-</div>
-
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=light&disable_animations=true) 
   
 </div>
